@@ -53,6 +53,10 @@
           <expand>
             <path>
               <item name="SimpleCollapsingDiagonalLayout" type="1abcf292:AndroidViewProjectNode" />
+              <item name="sample" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="SimpleCollapsingDiagonalLayout" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
@@ -172,11 +176,11 @@
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="5" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Build" order="9" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.32786885" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
