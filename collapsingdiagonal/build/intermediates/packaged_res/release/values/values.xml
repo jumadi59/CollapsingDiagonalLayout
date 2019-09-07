@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="collapsing_diagonal_layout_behavior">com.cumacoding.collapsingdiagonal.CollapsingBehavior</string>
+    <declare-styleable name="CollapsingBehavior">
+        <attr format="integer|reference" name="CollapsingId"/>
+        <attr format="boolean" name="isTrigger"/>
+    </declare-styleable>
+    <declare-styleable name="CollapsingDiagonalLayout">
+        <attr name="di_position">
+            <flag name="bottom_left" value="1"/>
+            <flag name="bottom_right" value="2"/>
+        </attr>
+        <attr format="dimension" name="di_overlap"/>
+    </declare-styleable>
+</resources>

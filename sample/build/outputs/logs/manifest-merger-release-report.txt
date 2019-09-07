@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [:collapsingdiagonal] /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/collapsingdiagonal/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /home/jumadi/.gradle/caches/transforms-2/files-2.1/c1043cf2d1c8f09c99c7150fc61d5c69/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/jumadi/.gradle/caches/transforms-2/files-2.1/60ae262989ee1c57223b795db8a7e340/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/27fd93f8fe9480468d0d327e45c3915e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/c99f367ce8cf6577f6c51e0d0d06436d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/533396c23f5b0c029b351c599a95e024/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] /home/jumadi/.gradle/caches/transforms-2/files-2.1/83020514e971dfdde867296b363f6392/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/a941e5a6048358cd95fe5b2fbe7744df/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/d7003a2b47f57a677121a398b38f66a1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/c03cc1349b3e526c27318b20802db43e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /home/jumadi/.gradle/caches/transforms-2/files-2.1/69a96e5fcc3bbec1bbbb2ecdf20ff66c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/8fe9688217319b3b5d1c903e21fb57a1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/f31302fae52ebb7acf57e351a79f6ccf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/828f7ccc07cd35f77a99fdf34b5719ad/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/61dd7e067e1b73153e5b8a0af34b25c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/e194d82eb8cb331d970d4d90adaef962/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/9c6f5990a312a890b811e66596aece2f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/723857a13575a0aa7d76fc340361e8f1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0-rc02] /home/jumadi/.gradle/caches/transforms-2/files-2.1/00d8d05a810f4d0ae14694f1ad2fda9b/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/8ec2f0304f700b2fca76fa60a331ecc2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/19def2ee623337972fac99804274d240/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/2c50a55974cbc171b2198c1f46a7a35c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/2e8dcdbbf9dddb0dc54dfa625516b16a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/7a4d93ea7f3cb6289525fe15992c8056/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/52cc9b6e3961bfeb86da0ee2693e018c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/2e359ab925703072903ddcd84880df57/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/9e82c7f05714fb72a0ede315e59c8696/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/5cc6bd6008fd30dae95547d74af932f9/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:3:5-60
+		INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+		INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /home/jumadi/.gradle/caches/transforms-2/files-2.1/c1043cf2d1c8f09c99c7150fc61d5c69/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /home/jumadi/.gradle/caches/transforms-2/files-2.1/c1043cf2d1c8f09c99c7150fc61d5c69/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/jumadi/.gradle/caches/transforms-2/files-2.1/60ae262989ee1c57223b795db8a7e340/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/jumadi/.gradle/caches/transforms-2/files-2.1/60ae262989ee1c57223b795db8a7e340/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-rc02] /home/jumadi/.gradle/caches/transforms-2/files-2.1/00d8d05a810f4d0ae14694f1ad2fda9b/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc02] /home/jumadi/.gradle/caches/transforms-2/files-2.1/00d8d05a810f4d0ae14694f1ad2fda9b/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/19def2ee623337972fac99804274d240/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/19def2ee623337972fac99804274d240/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc02] /home/jumadi/.gradle/caches/transforms-2/files-2.1/00d8d05a810f4d0ae14694f1ad2fda9b/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:9:9-41
+	android:fullBackupContent
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:12:9-40
+activity#com.cumacoding.simplecollapsingdiagonallayout.MainActivity
+ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:13:9-23:20
+	android:label
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:15:13-56
+	android:theme
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:17:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:18:25-66
+action#android.intent.action.VIEW
+ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+MERGED from [:collapsingdiagonal] /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/collapsingdiagonal/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:collapsingdiagonal] /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/collapsingdiagonal/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /home/jumadi/.gradle/caches/transforms-2/files-2.1/c1043cf2d1c8f09c99c7150fc61d5c69/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /home/jumadi/.gradle/caches/transforms-2/files-2.1/c1043cf2d1c8f09c99c7150fc61d5c69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/jumadi/.gradle/caches/transforms-2/files-2.1/60ae262989ee1c57223b795db8a7e340/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/jumadi/.gradle/caches/transforms-2/files-2.1/60ae262989ee1c57223b795db8a7e340/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/27fd93f8fe9480468d0d327e45c3915e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/27fd93f8fe9480468d0d327e45c3915e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/c99f367ce8cf6577f6c51e0d0d06436d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/c99f367ce8cf6577f6c51e0d0d06436d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/533396c23f5b0c029b351c599a95e024/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/533396c23f5b0c029b351c599a95e024/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] /home/jumadi/.gradle/caches/transforms-2/files-2.1/83020514e971dfdde867296b363f6392/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/jumadi/.gradle/caches/transforms-2/files-2.1/83020514e971dfdde867296b363f6392/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/a941e5a6048358cd95fe5b2fbe7744df/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/a941e5a6048358cd95fe5b2fbe7744df/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/d7003a2b47f57a677121a398b38f66a1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/d7003a2b47f57a677121a398b38f66a1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/c03cc1349b3e526c27318b20802db43e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/c03cc1349b3e526c27318b20802db43e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /home/jumadi/.gradle/caches/transforms-2/files-2.1/69a96e5fcc3bbec1bbbb2ecdf20ff66c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /home/jumadi/.gradle/caches/transforms-2/files-2.1/69a96e5fcc3bbec1bbbb2ecdf20ff66c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/8fe9688217319b3b5d1c903e21fb57a1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/8fe9688217319b3b5d1c903e21fb57a1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/f31302fae52ebb7acf57e351a79f6ccf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/f31302fae52ebb7acf57e351a79f6ccf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/828f7ccc07cd35f77a99fdf34b5719ad/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/828f7ccc07cd35f77a99fdf34b5719ad/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/61dd7e067e1b73153e5b8a0af34b25c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/61dd7e067e1b73153e5b8a0af34b25c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/e194d82eb8cb331d970d4d90adaef962/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/e194d82eb8cb331d970d4d90adaef962/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/9c6f5990a312a890b811e66596aece2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/9c6f5990a312a890b811e66596aece2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/723857a13575a0aa7d76fc340361e8f1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/723857a13575a0aa7d76fc340361e8f1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc02] /home/jumadi/.gradle/caches/transforms-2/files-2.1/00d8d05a810f4d0ae14694f1ad2fda9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc02] /home/jumadi/.gradle/caches/transforms-2/files-2.1/00d8d05a810f4d0ae14694f1ad2fda9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/8ec2f0304f700b2fca76fa60a331ecc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/8ec2f0304f700b2fca76fa60a331ecc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/19def2ee623337972fac99804274d240/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/19def2ee623337972fac99804274d240/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/2c50a55974cbc171b2198c1f46a7a35c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/2c50a55974cbc171b2198c1f46a7a35c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/2e8dcdbbf9dddb0dc54dfa625516b16a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/2e8dcdbbf9dddb0dc54dfa625516b16a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/7a4d93ea7f3cb6289525fe15992c8056/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/jumadi/.gradle/caches/transforms-2/files-2.1/7a4d93ea7f3cb6289525fe15992c8056/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/52cc9b6e3961bfeb86da0ee2693e018c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/52cc9b6e3961bfeb86da0ee2693e018c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/2e359ab925703072903ddcd84880df57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/2e359ab925703072903ddcd84880df57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/9e82c7f05714fb72a0ede315e59c8696/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/9e82c7f05714fb72a0ede315e59c8696/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/5cc6bd6008fd30dae95547d74af932f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/jumadi/.gradle/caches/transforms-2/files-2.1/5cc6bd6008fd30dae95547d74af932f9/AndroidManifest.xml:20:5-44
+INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+		INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+		ADDED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
+		INJECTED from /home/jumadi/AndroidStudioProjects/SimpleCollapsingDiagonalLayout/sample/src/main/AndroidManifest.xml
